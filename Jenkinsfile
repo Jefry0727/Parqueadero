@@ -15,9 +15,9 @@ pipeline {
 		gradle 'Gradle4.5_Centos'
 	}
 	
-	triggers {
-		// pollSCM('@hourly')
-	}
+	// triggers {
+	// 	// pollSCM('@hourly')
+	// }
 	
 	stages{
 		
