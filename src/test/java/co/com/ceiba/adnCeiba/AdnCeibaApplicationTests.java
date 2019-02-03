@@ -11,6 +11,8 @@ public class AdnCeibaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("prueba");	
+		
 	}
 
 }
